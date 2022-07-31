@@ -112,15 +112,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewFile-1-1-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewFile-1-1-1.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "NewFile-1-1-1-1.png",
         "kind": "image",
         "metadata": "",
@@ -244,6 +235,15 @@
         "name": "Walk-4-1.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-1-1.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -275,10 +275,19 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.8360000000000396,
+        "zoomFactor": 1.234000000000039,
         "windowMask": false
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "MichisClientes",
+          "objects": [
+            {
+              "name": "Mary"
+            }
+          ]
+        }
+      ],
       "variables": [
         {
           "folded": true,
@@ -294,22 +303,6 @@
         }
       ],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 16,
-          "layer": "",
-          "locked": false,
-          "name": "Mary",
-          "persistentUuid": "385c49dd-1816-4a8c-8f3f-bbb0c8c2b568",
-          "width": 16,
-          "x": 528,
-          "y": 336,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": false,
@@ -329,14 +322,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 48,
+          "height": 64,
           "layer": "",
           "locked": false,
           "name": "NewTiledSprite2",
           "persistentUuid": "511abc13-9ccf-4efd-924d-31dea8c5a3dd",
           "width": 144,
           "x": 304,
-          "y": 368,
+          "y": 352,
           "zOrder": -10,
           "numberProperties": [],
           "stringProperties": [],
@@ -367,8 +360,8 @@
           "name": "Mary",
           "persistentUuid": "956a0a8b-f5be-4910-983e-a855bb4cb881",
           "width": 0,
-          "x": 448,
-          "y": 336,
+          "x": 800,
+          "y": 128,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -377,30 +370,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 16,
-          "layer": "",
-          "locked": false,
-          "name": "NewTiledSprite3",
-          "persistentUuid": "0bb9feea-6215-43ff-9226-321fe0fb9441",
-          "width": 128,
-          "x": 448,
-          "y": 352,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 80,
+          "height": 96,
           "layer": "",
           "locked": false,
           "name": "NewTiledSprite4",
           "persistentUuid": "15d63d91-0f7c-49be-8ad9-33a786beb8bd",
           "width": 128,
           "x": 448,
-          "y": 368,
+          "y": 352,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -415,9 +392,25 @@
           "name": "Spawner",
           "persistentUuid": "eeafae49-036e-4641-82f2-f1337e07cfa3",
           "width": 0,
-          "x": 400,
-          "y": 256,
+          "x": 560,
+          "y": 336,
           "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "grass",
+          "persistentUuid": "89351ed6-2f32-48cc-8ab0-a23d951144d4",
+          "width": 128,
+          "x": 448,
+          "y": 352,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -430,7 +423,14 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "Assigned",
+              "type": "boolean",
+              "value": false
+            }
+          ],
           "effects": [
             {
               "effectType": "Outline",
@@ -473,20 +473,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 4,
-                            "y": 10
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 10,
-                            "y": 10
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 10,
-                            "y": 15
+                            "x": 16,
+                            "y": 16
                           },
                           {
-                            "x": 4,
-                            "y": 15
+                            "x": 0,
+                            "y": 16
                           }
                         ]
                       ]
@@ -504,7 +504,7 @@
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "walk-1.png",
                       "points": [],
                       "originPoint": {
@@ -518,7 +518,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -533,7 +552,7 @@
                   "timeBetweenFrames": 0.26499998569488525,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Walk-1-2.png",
                       "points": [],
                       "originPoint": {
@@ -547,10 +566,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Walk-2-1.png",
                       "points": [],
                       "originPoint": {
@@ -564,10 +602,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Walk-3-1.png",
                       "points": [],
                       "originPoint": {
@@ -581,10 +638,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Walk-4-1.png",
                       "points": [],
                       "originPoint": {
@@ -598,7 +674,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -609,7 +704,7 @@
         {
           "assetStoreId": "",
           "height": 16,
-          "name": "NewTiledSprite",
+          "name": "grass",
           "tags": "",
           "texture": "NewFile-1-1-1.png",
           "type": "TiledSpriteObject::TiledSprite",
@@ -617,6 +712,29 @@
           "variables": [],
           "effects": [],
           "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Static",
+              "bullet": false,
+              "fixedRotation": false,
+              "canSleep": true,
+              "shape": "Box",
+              "shapeDimensionA": 0,
+              "shapeDimensionB": 0,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 0,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 1,
+              "layers": 1,
+              "masks": 1
+            },
             {
               "name": "Platform",
               "type": "PlatformBehavior::PlatformBehavior",
@@ -722,18 +840,6 @@
         {
           "assetStoreId": "",
           "height": 32,
-          "name": "NewTiledSprite3",
-          "tags": "",
-          "texture": "NewFile-1-1.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
           "name": "NewTiledSprite4",
           "tags": "",
           "texture": "NewFile-1-1-1-1.png",
@@ -755,9 +861,9 @@
             {
               "name": "ObjectSpawner",
               "type": "ObjectSpawner::ObjectSpawner",
-              "SpawnPeriod": 1,
+              "SpawnPeriod": 2,
               "OffsetX": -16,
-              "OffsetY": 3,
+              "OffsetY": 0,
               "JustSpawnedAnObject": false,
               "MaxQuantityReached": false,
               "MaxQuantity": 10
@@ -794,6 +900,72 @@
               ]
             }
           ]
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 90,
+          "emitterForceMax": 85,
+          "emitterForceMin": 45,
+          "flow": 45,
+          "maxParticleNb": 300,
+          "name": "NewParticlesEmitter",
+          "particleAlpha1": 204,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 51,
+          "particleBlue2": 0,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 51,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 2.5,
+          "particleLifeTimeMin": 0.5,
+          "particleRed1": 255,
+          "particleRed2": 255,
+          "particleSize1": 100,
+          "particleSize2": 100,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Point",
+          "tags": "",
+          "tank": -1,
+          "textureParticleName": "",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "MichiDialog",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 177,
+            "g": 177,
+            "r": 177
+          }
         }
       ],
       "events": [
@@ -835,7 +1007,7 @@
               },
               "parameters": [
                 "",
-                "4",
+                "3.7",
                 "",
                 ""
               ]
@@ -853,24 +1025,7 @@
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "Raycast"
-                  },
-                  "parameters": [
-                    "Mary",
-                    "Spawner.PointX(\"vision\")",
-                    "Spawner.PointY(\"vision\")",
-                    "0",
-                    "16",
-                    "CanSpawn",
-                    "CanSpawn",
-                    ""
-                  ]
-                }
-              ],
+              "conditions": [],
               "actions": [
                 {
                   "type": {
@@ -889,103 +1044,123 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Michi Events",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "inverted": true,
-                "value": "Distance"
-              },
-              "parameters": [
-                "Mary",
-                "Table",
-                "16",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AddForceVers"
-              },
-              "parameters": [
-                "Mary",
-                "Table",
-                "10",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "MichisClientes",
+                    "<",
+                    "448"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "MichisClientes",
+                    "Assigned",
+                    "False"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "MichisClientes",
+                    "-10",
+                    "0",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "MichisClientes",
+                    "=",
+                    "2"
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Mary",
-                "=",
-                "2"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Raycast"
+                  },
+                  "parameters": [
+                    "MichisClientes",
+                    "MichisClientes.PointX(\"vision\")",
+                    "MichisClientes.PointY(\"vision\")",
+                    "360",
+                    "10",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "MichisClientes"
+                  ]
+                }
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+            },
             {
-              "type": {
-                "value": "Distance"
-              },
-              "parameters": [
-                "Mary",
-                "Table",
-                "16",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Vitesse"
+                  },
+                  "parameters": [
+                    "MichisClientes",
+                    "<=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "MichisClientes",
+                    "=",
+                    "0"
+                  ]
+                }
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Mary",
-                "=",
-                "0"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "Raycast"
-              },
-              "parameters": [
-                "Mary",
-                "Mary.PointX(\"vision\") -16",
-                "Mary.PointY(\"vision\")",
-                "180",
-                "10",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Arreter"
-              },
-              "parameters": [
-                "Mary"
-              ]
-            }
-          ]
+          "parameters": []
         }
       ],
       "layers": [
@@ -1027,6 +1202,14 @@
         {
           "name": "ObjectSpawner",
           "type": "ObjectSpawner::ObjectSpawner"
+        },
+        {
+          "name": "Physics2",
+          "type": "Physics2::Physics2Behavior",
+          "gravityX": 0,
+          "gravityY": 9.8,
+          "scaleX": 100,
+          "scaleY": 100
         },
         {
           "name": "Platform",
@@ -3006,6 +3189,24 @@
           ]
         }
       ]
+    },
+    {
+      "author": "",
+      "category": "",
+      "description": "",
+      "extensionNamespace": "",
+      "fullName": "",
+      "helpPath": "",
+      "iconUrl": "",
+      "name": "UntitledExtension",
+      "previewIconUrl": "",
+      "shortDescription": "",
+      "version": "",
+      "tags": [],
+      "authorIds": [],
+      "dependencies": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": []
     }
   ],
   "externalLayouts": [],
