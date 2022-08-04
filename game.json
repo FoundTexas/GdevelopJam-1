@@ -115,7 +115,7 @@
         "file": "NewFile-1-1-1-1.png",
         "kind": "image",
         "metadata": "",
-        "name": "NewFile-1-1-1-1.png",
+        "name": "Dirt.png",
         "smoothed": false,
         "userAdded": true
       },
@@ -244,14 +244,1654 @@
         "name": "NewFile-1-1-1.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Money Purse_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Money Purse_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/32x32 Fantasy Icons Pack v2/Icons/General Items/Money Purse_No Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Money Purse_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Money Purse_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/32x32 Fantasy Icons Pack v2/Icons/General Items/Money Purse_Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "desktop-icon-512.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "desktop-icon-512.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "android-icon-192.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "android-icon-192.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "android-icon-144.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "android-icon-144.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "android-icon-96.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "android-icon-96.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "android-icon-72.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "android-icon-72.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "android-icon-48.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "android-icon-48.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "android-icon-36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "android-icon-36.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-1024.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-1024.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-180.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-180.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-167.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-167.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-152.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-152.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-144.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-144.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-120.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-120.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-114.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-114.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-100.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-100.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-87.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-87.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-80.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-80.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-76.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-76.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-72.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-72.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-60.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-60.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-58.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-58.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-57.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-57.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-50.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-50.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-40.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-29.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ios-icon-20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ios-icon-20.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "novem___2.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "novem___2.ttf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Table-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Table-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-1-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-1-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-1-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-2-0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-1-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-2-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-1-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-2-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-2-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-3-0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-4-0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-5-0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-1-5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-2-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-2-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-3-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-4-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-4-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-5-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-6-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-1-6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-2-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-2-4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-3-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-3-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-4-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-4-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-5-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-5-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-6-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-7-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-8-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-8-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-9-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-9-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-1-7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-2-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-2-5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-3-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-3-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-4-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-4-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-5-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-5-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-6-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-6-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-7-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-7-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-8-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-8-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-9-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-9-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-9-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-9-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-11.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-1-8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-2-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-2-6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-3-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-3-4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-4-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-4-4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-5-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-5-4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-6-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-6-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-7-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-7-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-8-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-8-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-9-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-9-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-10.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-11-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-11-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-12.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-13.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-1-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-1-9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-2-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-2-7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-3-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-3-5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-4-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-4-5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-5-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-5-5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-6-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-6-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-7-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-7-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-8-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-8-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-9-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-9-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-10-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-10-0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-11-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-11-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-12-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-12-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-12-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-12-0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-13-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-13-0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-1-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-1-10.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-2-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-2-8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-3-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-3-6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-4-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-4-6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-5-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-5-6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-6-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-6-5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-7-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-7-4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-8-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-8-4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-9-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-9-5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-10-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-10-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-11-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-11-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-12-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-12-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-13-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-13-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-13-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-13-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-14.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-15.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-17-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-17-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-16.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "UIStory-17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UIStory-17.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blank Button Green_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blank Button Green_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/Interface/32x32 Pixel Arcade Stick and Buttons/Blank Button Green_Pressed.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blank Button Green_Unpressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blank Button Green_Unpressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/Interface/32x32 Pixel Arcade Stick and Buttons/Blank Button Green_Unpressed.png",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
   },
   "objects": [],
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "Money",
+      "type": "boolean",
+      "value": false
+    }
+  ],
   "layouts": [
+    {
+      "b": 0,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Untitled_32scene",
+      "name": "Untitled scene",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 0,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 0,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.4850000000000001,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 529,
+          "layer": "UI",
+          "locked": false,
+          "name": "UIStory",
+          "persistentUuid": "7ed1e0b2-38b1-4d9c-9de4-ca7a196d6d71",
+          "width": 636,
+          "x": 80,
+          "y": 26,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "name": "UIStory",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "UIStory",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.5,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-1-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-2-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-3-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-4-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-5-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-6-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-7-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-8-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-9-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-10-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-11-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-12-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-13-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-13-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-17-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "UIStory-17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Escena sin título\"",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimationEnded"
+              },
+              "parameters": [
+                "UIStory"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Escena sin título\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 0,
+          "ambientLightColorG": 0,
+          "ambientLightColorR": 1869182049,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 9772912,
+          "ambientLightColorG": 6043312,
+          "ambientLightColorR": 10027144,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "UI",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
     {
       "b": 0,
       "disableInputWhenNotFocused": true,
@@ -275,7 +1915,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.234000000000039,
+        "zoomFactor": 1.2242000000000417,
         "windowMask": false
       },
       "objectsGroups": [
@@ -284,6 +1924,17 @@
           "objects": [
             {
               "name": "Mary"
+            }
+          ]
+        },
+        {
+          "name": "Rooms",
+          "objects": [
+            {
+              "name": "Table"
+            },
+            {
+              "name": "NewTiledSprite2"
             }
           ]
         }
@@ -299,7 +1950,37 @@
           "folded": true,
           "name": "CanSpawn",
           "type": "boolean",
-          "value": false
+          "value": true
+        },
+        {
+          "folded": true,
+          "name": "Money",
+          "type": "number",
+          "value": 1000
+        },
+        {
+          "folded": true,
+          "name": "Floors",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "Basement",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "Debt",
+          "type": "number",
+          "value": 1000000
+        },
+        {
+          "folded": true,
+          "name": "MaxDebt",
+          "type": "number",
+          "value": 1000000
         }
       ],
       "instances": [
@@ -321,38 +2002,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "locked": false,
-          "name": "NewTiledSprite2",
-          "persistentUuid": "511abc13-9ccf-4efd-924d-31dea8c5a3dd",
-          "width": 144,
-          "x": 304,
-          "y": 352,
-          "zOrder": -10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 8,
-          "layer": "",
-          "locked": false,
-          "name": "Table",
-          "persistentUuid": "e1de3889-e6f0-4cd4-9479-c451fd63d9d0",
-          "width": 16,
-          "x": 368,
-          "y": 345,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
@@ -360,8 +2009,8 @@
           "name": "Mary",
           "persistentUuid": "956a0a8b-f5be-4910-983e-a855bb4cb881",
           "width": 0,
-          "x": 800,
-          "y": 128,
+          "x": 512,
+          "y": 320,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -370,31 +2019,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 96,
+          "height": 304,
           "layer": "",
           "locked": false,
           "name": "NewTiledSprite4",
           "persistentUuid": "15d63d91-0f7c-49be-8ad9-33a786beb8bd",
-          "width": 128,
-          "x": 448,
+          "width": 288,
+          "x": 288,
           "y": 352,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Spawner",
-          "persistentUuid": "eeafae49-036e-4641-82f2-f1337e07cfa3",
-          "width": 0,
-          "x": 560,
-          "y": 336,
-          "zOrder": 10,
+          "zOrder": -20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -407,13 +2040,1294 @@
           "locked": false,
           "name": "grass",
           "persistentUuid": "89351ed6-2f32-48cc-8ab0-a23d951144d4",
-          "width": 128,
-          "x": 448,
+          "width": 288,
+          "x": 288,
           "y": 352,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "UI",
+          "locked": false,
+          "name": "MichiDialog",
+          "persistentUuid": "457393df-f42f-44bf-9a34-252e959c1c4c",
+          "width": 234,
+          "x": 560,
+          "y": 6,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite2",
+          "persistentUuid": "a02010d7-91a1-432f-ad6c-edbc3b287729",
+          "width": 176,
+          "x": 288,
+          "y": 368,
+          "zOrder": -10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "6b567b85-8bd8-4ad2-98e0-4f34849fce15",
+          "width": 144,
+          "x": 304,
+          "y": 464,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "4b1c89a1-2ef9-4572-9575-af9943847c97",
+          "width": 144,
+          "x": 304,
+          "y": 512,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "b08cd5f0-800a-49d7-afeb-08f2a23b9607",
+          "width": 144,
+          "x": 304,
+          "y": 560,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "26a832c5-fe17-4b8f-b109-684b68a9265b",
+          "width": 144,
+          "x": 304,
+          "y": 608,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "cc67b950-dfbb-4fe6-899c-239e486806b2",
+          "width": 16,
+          "x": 368,
+          "y": 384,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": -1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "126d8d6c-0e40-4c16-9a31-3dea66e27286",
+          "width": 16,
+          "x": 368,
+          "y": 432,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": -1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "f4d1fdf3-eb29-4d45-8f1f-adc89cad2839",
+          "width": 16,
+          "x": 368,
+          "y": 272,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 2
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "ecb7d2a7-7a1e-4c00-a271-1d88a79ae020",
+          "width": 16,
+          "x": 368,
+          "y": 224,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": -1
+            },
+            {
+              "folded": true,
+              "name": "Price",
+              "type": "number",
+              "value": 500
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "b7f1151b-9806-4428-9d8e-1a1e7b001773",
+          "width": 16,
+          "x": 416,
+          "y": 288,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 2.3
+            },
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "a71e57d6-6ec1-4e72-ad80-910c13543503",
+          "width": 32,
+          "x": 304,
+          "y": 288,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "b0d8490b-7327-4489-940c-7e39f2d82556",
+          "width": 32,
+          "x": 400,
+          "y": 400,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "d1fe5161-238b-4839-8a79-1e65d5f0878c",
+          "width": 16,
+          "x": 400,
+          "y": 400,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": -1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "24c0eb1a-cce4-4012-b0ba-2f9ba129ce89",
+          "width": 32,
+          "x": 400,
+          "y": 288,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "400b115a-31d8-4268-b063-e64d974adee7",
+          "width": 16,
+          "x": 304,
+          "y": 288,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 2
+            },
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 2.1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "b4e99a6f-86ca-4ae5-a396-7ad678bd5e4d",
+          "width": 16,
+          "x": 368,
+          "y": 320,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "folded": true,
+              "name": "Price",
+              "type": "number",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite2",
+          "persistentUuid": "a7d5698c-5bd4-401e-8290-1c45a3f1a41a",
+          "width": 176,
+          "x": 288,
+          "y": 304,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "Update",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite2",
+          "persistentUuid": "018a4ddd-23c5-4f4e-90e0-2c74c1c3bfe1",
+          "width": 176,
+          "x": 288,
+          "y": 256,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite2",
+          "persistentUuid": "ac9edf55-53ca-4d95-b01e-236eed3ec895",
+          "width": 176,
+          "x": 288,
+          "y": 416,
+          "zOrder": -10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "d7b27ec4-04ec-44a3-8140-ed4550210be9",
+          "width": 32,
+          "x": 352,
+          "y": 288,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "296581f3-fcd2-4fe9-9a87-70d02d91f38d",
+          "width": 16,
+          "x": 352,
+          "y": 288,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 2.3
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 2.1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite2",
+          "persistentUuid": "5e7e8c02-7e66-4674-82b8-3f309bf45487",
+          "width": 176,
+          "x": 288,
+          "y": 208,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "210156aa-7dbd-4a41-b333-717e9067a3c2",
+          "width": 16,
+          "x": 336,
+          "y": 336,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "Price",
+              "type": "number",
+              "value": 5
+            },
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "1bf90f8a-c095-4112-9b43-278ba4035bac",
+          "width": 32,
+          "x": 336,
+          "y": 336,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "a6209583-b0ec-486d-b3b4-d25b4133144e",
+          "width": 32,
+          "x": 384,
+          "y": 336,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "eb471f1c-51d4-40ec-9518-e321d028d641",
+          "width": 16,
+          "x": 400,
+          "y": 336,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "81abde21-e77d-4526-af38-22b32114a04c",
+          "width": 32,
+          "x": 416,
+          "y": 240,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "30a4403a-0731-40ae-b8aa-e9364b9fa0b5",
+          "width": 16,
+          "x": 432,
+          "y": 240,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "437b81b8-ee94-4db4-bc5e-f4e83b07bffc",
+          "width": 32,
+          "x": 416,
+          "y": 240,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "8b261360-faaf-451f-9858-f16c7162e7e9",
+          "width": 16,
+          "x": 432,
+          "y": 240,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "8a3bf1a6-2089-4a43-a9a9-c80bbf509318",
+          "width": 32,
+          "x": 352,
+          "y": 240,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "0e8c101d-5648-418a-9b67-46b831105b8d",
+          "width": 16,
+          "x": 352,
+          "y": 240,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 2.3
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 2.1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Table",
+          "persistentUuid": "1521ccd1-7bf1-40fb-8aed-7ed3f64b5401",
+          "width": 32,
+          "x": 288,
+          "y": 240,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "53a1d65d-63a5-42cb-a3e3-155a8ece60c4",
+          "width": 16,
+          "x": 288,
+          "y": 240,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 2
+            },
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 2.1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite2",
+          "persistentUuid": "b595df7f-95d9-471a-a64b-c31c031865fb",
+          "width": 176,
+          "x": 288,
+          "y": 160,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite2",
+          "persistentUuid": "b621553e-feea-44a8-bbb3-702eab2b4da9",
+          "width": 176,
+          "x": 288,
+          "y": 112,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite2",
+          "persistentUuid": "13c44ade-d39b-4a23-91e2-177b8ff8df3c",
+          "width": 176,
+          "x": 288,
+          "y": 64,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite2",
+          "persistentUuid": "ed3da4dd-3b63-4ff2-ad2c-b199ac0d2f76",
+          "width": 176,
+          "x": 288,
+          "y": 16,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite2",
+          "persistentUuid": "a8925ea6-7975-415c-8ec9-2fcebf8f286c",
+          "width": 176,
+          "x": 288,
+          "y": -32,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "NewTiledSprite2",
+          "persistentUuid": "5b9b44c6-7c23-4f8f-b616-b8a1bf04b416",
+          "width": 176,
+          "x": 288,
+          "y": -80,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "551d8705-a6b1-48a8-bdff-ea2caf646c7d",
+          "width": 16,
+          "x": 368,
+          "y": 176,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": -1
+            },
+            {
+              "folded": true,
+              "name": "Price",
+              "type": "number",
+              "value": 1000
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "d0333b4c-bc78-4ec0-98ab-fc846342571e",
+          "width": 16,
+          "x": 368,
+          "y": 128,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": -1
+            },
+            {
+              "folded": true,
+              "name": "Price",
+              "type": "number",
+              "value": 5000
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "506387b7-6b3f-4ec4-95ec-a149b44b954a",
+          "width": 16,
+          "x": 368,
+          "y": 80,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": -1
+            },
+            {
+              "folded": true,
+              "name": "Price",
+              "type": "number",
+              "value": 10000
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 42,
+          "layer": "UI",
+          "locked": false,
+          "name": "Debt",
+          "persistentUuid": "e2ba1e58-8aef-406a-9da5-dfcfda210aa0",
+          "width": 212,
+          "x": 560,
+          "y": 70,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "b82c5ba8-c606-40ed-8f8c-b50411b40744",
+          "width": 16,
+          "x": 368,
+          "y": 32,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": -1
+            },
+            {
+              "folded": true,
+              "name": "Price",
+              "type": "number",
+              "value": 50000
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "f37f5515-db2c-4970-9c29-340db93ea3ab",
+          "width": 16,
+          "x": 368,
+          "y": -16,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": -1
+            },
+            {
+              "folded": true,
+              "name": "Price",
+              "type": "number",
+              "value": 100000
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "MoneyPurse",
+          "persistentUuid": "33b490d9-dc93-4867-802c-e9ff6aee867d",
+          "width": 16,
+          "x": 368,
+          "y": -64,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": -1
+            },
+            {
+              "folded": true,
+              "name": "Price",
+              "type": "number",
+              "value": 1000000
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "UI",
+          "locked": false,
+          "name": "UIMoney",
+          "persistentUuid": "45167531-3d21-4bb9-a4dc-57412047be4d",
+          "width": 48,
+          "x": 512,
+          "y": 54,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 144,
+          "layer": "UI",
+          "locked": false,
+          "name": "NewTiledSprite",
+          "persistentUuid": "3b5415f2-5607-4f9a-9465-dbd981cd29d0",
+          "width": 176,
+          "x": 512,
+          "y": 144,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "UI",
+          "locked": false,
+          "name": "PayDebtText",
+          "persistentUuid": "38926255-494e-432a-882a-b48afaa0d1a0",
+          "width": 80,
+          "x": 528,
+          "y": 160,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "Amount",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "UI",
+          "locked": false,
+          "name": "PayDebtText",
+          "persistentUuid": "35e339d9-7029-4bc9-99ca-0016142e972e",
+          "width": 80,
+          "x": 608,
+          "y": 160,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "Amount",
+              "type": "number",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "UI",
+          "locked": false,
+          "name": "PayDebtText",
+          "persistentUuid": "61da58fb-b067-4fad-a89b-82727935e2d1",
+          "width": 80,
+          "x": 608,
+          "y": 192,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "Amount",
+              "type": "number",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "UI",
+          "locked": false,
+          "name": "PayDebtText",
+          "persistentUuid": "99278b41-78bc-490d-bfe4-7b7e259845a0",
+          "width": 80,
+          "x": 528,
+          "y": 192,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "Amount",
+              "type": "number",
+              "value": 100
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "UI",
+          "locked": false,
+          "name": "PayDebtText",
+          "persistentUuid": "d988e0ec-8ece-4eb2-b371-d4228cb598d3",
+          "width": 80,
+          "x": 528,
+          "y": 224,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "Amount",
+              "type": "number",
+              "value": 10000
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "UI",
+          "locked": false,
+          "name": "PayDebtText",
+          "persistentUuid": "1671fa09-3b27-438f-88b3-4bb6790be633",
+          "width": 80,
+          "x": 608,
+          "y": 224,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "Amount",
+              "type": "number",
+              "value": 100000
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "UI",
+          "locked": false,
+          "name": "PayDebtText",
+          "persistentUuid": "8621e2c6-1b37-4317-964f-2b7767dfd805",
+          "width": 80,
+          "x": 608,
+          "y": 224,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "Amount",
+              "type": "number",
+              "value": 100000
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "UI",
+          "locked": false,
+          "name": "PayDebtText",
+          "persistentUuid": "9dd79f8e-382a-4027-9409-2be4946f2947",
+          "width": 80,
+          "x": 560,
+          "y": 256,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "Amount",
+              "type": "number",
+              "value": 1000000
+            }
+          ]
         }
       ],
       "objects": [
@@ -445,7 +3359,303 @@
               "booleanParameters": {}
             }
           ],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Draggable",
+              "type": "DraggableBehavior::Draggable",
+              "checkCollisionMask": true
+            }
+          ],
+          "animations": [
+            {
+              "name": "Sit",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Michi1-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Stand Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "walk-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.26499998569488525,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk-1-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk-2-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk-3-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk-4-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Player",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "Assigned",
+              "type": "boolean",
+              "value": false
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 0,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "1"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "Draggable",
+              "type": "DraggableBehavior::Draggable",
+              "checkCollisionMask": true
+            }
+          ],
           "animations": [
             {
               "name": "Sit",
@@ -745,66 +3955,6 @@
           ]
         },
         {
-          "assetStoreId": "b367c6e5fd573b4aa7a577420821223f57ee805a57307599739be95c379e8d42",
-          "name": "Table",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Table.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 80,
-                            "y": 0
-                          },
-                          {
-                            "x": 80,
-                            "y": 30
-                          },
-                          {
-                            "x": 0,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "bold": false,
           "italic": false,
@@ -833,7 +3983,20 @@
           "texture": "assets\\Wall Mid.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "Update",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "folded": true,
+              "name": "MaxUpdate",
+              "type": "number",
+              "value": 0
+            }
+          ],
           "effects": [],
           "behaviors": []
         },
@@ -842,7 +4005,7 @@
           "height": 32,
           "name": "NewTiledSprite4",
           "tags": "",
-          "texture": "NewFile-1-1-1-1.png",
+          "texture": "Dirt.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -862,7 +4025,7 @@
               "name": "ObjectSpawner",
               "type": "ObjectSpawner::ObjectSpawner",
               "SpawnPeriod": 2,
-              "OffsetX": -16,
+              "OffsetX": 0,
               "OffsetY": 0,
               "JustSpawnedAnObject": false,
               "MaxQuantityReached": false,
@@ -959,35 +4122,417 @@
           "effects": [],
           "behaviors": [],
           "string": "Text",
-          "font": "",
-          "characterSize": 20,
+          "font": "novem___2.ttf",
+          "characterSize": 50,
           "color": {
-            "b": 177,
-            "g": 177,
-            "r": 177
+            "b": 6,
+            "g": 255,
+            "r": 0
           }
-        }
-      ],
-      "events": [
+        },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
+          "assetStoreId": "b367c6e5fd573b4aa7a577420821223f57ee805a57307599739be95c379e8d42",
+          "name": "Table",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
             {
-              "type": {
-                "value": "DragCameraWithPointer::DragCameraWithPointer"
-              },
-              "parameters": [
-                "",
-                "0",
-                "\"\"",
-                "\"vertical\"",
-                "Left",
-                ""
+              "folded": true,
+              "name": "Update",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "folded": true,
+              "name": "MaxUpdate",
+              "type": "string",
+              "value": ""
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ObjectSpawner",
+              "type": "ObjectSpawner::ObjectSpawner",
+              "SpawnPeriod": 1,
+              "OffsetX": 0,
+              "OffsetY": 0,
+              "JustSpawnedAnObject": false,
+              "MaxQuantityReached": false,
+              "MaxQuantity": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "Table",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Table-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 30
+                          },
+                          {
+                            "x": 0,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
               ]
             }
           ]
         },
+        {
+          "assetStoreId": "4e5f9dd97bd51aa5c96d3808108fb76e334ad48a6c7141185faf8c02c174679a",
+          "name": "MoneyPurse",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "Price",
+              "type": "number",
+              "value": 100
+            },
+            {
+              "folded": true,
+              "name": "inst",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Money Purse_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Money Purse_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "4e5f9dd97bd51aa5c96d3808108fb76e334ad48a6c7141185faf8c02c174679a",
+          "name": "UIMoney",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Money Purse_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Money Purse_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "monText",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "characterSize": 16,
+          "color": {
+            "b": 0,
+            "g": 255,
+            "r": 21
+          }
+        },
+        {
+          "assetStoreId": "",
+          "height": 16,
+          "name": "NewTiledSprite",
+          "tags": "",
+          "texture": "Wall-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Debt",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "Debt",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "novem___2.ttf",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "PayDebtText",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "Amount",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "string": "1000000",
+          "font": "novem___2.ttf",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "649582a8479227fbb35888a44837f3dedada76855ac36132f9de0191c8058f0e",
+          "name": "BlankButtonGreen",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Pressed",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Blank Button Green_Pressed.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Unpressed",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Blank Button Green_Unpressed.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -1011,6 +4556,158 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Rooms"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "PayDebtText"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "NewTiledSprite"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "PayDebtText",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "PayDebtText",
+                    "=",
+                    "ToString(PayDebtText.Variable(Amount)) + \"$\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "MoneyPurse",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "Rooms",
+                    "MoneyPurse.X()",
+                    "MoneyPurse.Y()",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "monText",
+                    "MoneyPurse.X()+16",
+                    "MoneyPurse.Y()\n",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "monText",
+                    "=",
+                    "ToString(MoneyPurse.Variable(Price)) + \" $\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "LinkedObjects::LinkObjects"
+                  },
+                  "parameters": [
+                    "",
+                    "MoneyPurse",
+                    "monText"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "LinkedObjects::LinkObjects"
+                  },
+                  "parameters": [
+                    "",
+                    "Rooms",
+                    "MoneyPurse"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "monText"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "MoneyPurse"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Mary",
+                "",
+                "yes",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "DragCameraWithPointer::DragCameraWithPointer"
+              },
+              "parameters": [
+                "",
+                "0",
+                "\"\"",
+                "\"vertical\"",
+                "Left",
+                ""
+              ]
             }
           ]
         },
@@ -1019,26 +4716,234 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Spawn Michis",
+          "folded": true,
+          "name": "Michi Events",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Michi Movement",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
-                  "type": {
-                    "value": "ObjectSpawner::ObjectSpawner::SpawnObject"
-                  },
-                  "parameters": [
-                    "Spawner",
-                    "ObjectSpawner",
-                    "Mary",
-                    ""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Mary",
+                        "Assigned",
+                        "False"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "PosX"
+                          },
+                          "parameters": [
+                            "Mary",
+                            "<",
+                            "448"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AddForceXY"
+                          },
+                          "parameters": [
+                            "Mary",
+                            "-10",
+                            "0",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Mary",
+                            "Mary",
+                            "448",
+                            "",
+                            "yes"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Arreter"
+                          },
+                          "parameters": [
+                            "Mary"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "PosX"
+                          },
+                          "parameters": [
+                            "Mary",
+                            ">=",
+                            "448"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Arreter"
+                          },
+                          "parameters": [
+                            "Mary"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Mary",
+                        "Assigned",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "PosX"
+                          },
+                          "parameters": [
+                            "Mary",
+                            "<",
+                            "448"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "PosX"
+                          },
+                          "parameters": [
+                            "Mary",
+                            ">",
+                            "366"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AddForceXY"
+                          },
+                          "parameters": [
+                            "Mary",
+                            "RandomInRange(-1,1)*10",
+                            "0",
+                            "0"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Vitesse"
+                      },
+                      "parameters": [
+                        "MichisClientes",
+                        ">",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Mary",
+                        "=",
+                        "2"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Vitesse"
+                      },
+                      "parameters": [
+                        "MichisClientes",
+                        "<=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Mary",
+                        "=",
+                        "0"
+                      ]
+                    }
                   ]
                 }
-              ]
+              ],
+              "parameters": []
             }
           ],
           "parameters": []
@@ -1048,7 +4953,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Michi Events",
+          "name": "Upgrade Events",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -1057,66 +4962,61 @@
               "conditions": [
                 {
                   "type": {
-                    "inverted": true,
-                    "value": "PosX"
+                    "value": "Visible"
                   },
                   "parameters": [
-                    "MichisClientes",
-                    "<",
-                    "448"
+                    "MoneyPurse"
                   ]
                 },
                 {
                   "type": {
-                    "value": "ObjectVariableAsBoolean"
+                    "value": "SourisSurObjet"
                   },
                   "parameters": [
-                    "MichisClientes",
-                    "Assigned",
-                    "False"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AddForceXY"
-                  },
-                  "parameters": [
-                    "MichisClientes",
-                    "-10",
-                    "0",
+                    "MoneyPurse",
+                    "",
+                    "",
                     ""
                   ]
                 },
                 {
                   "type": {
-                    "value": "ChangeAnimation"
+                    "value": "MouseButtonReleased"
                   },
                   "parameters": [
-                    "MichisClientes",
-                    "=",
-                    "2"
+                    "",
+                    "Left"
                   ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+                },
                 {
                   "type": {
-                    "inverted": true,
-                    "value": "Raycast"
+                    "value": "VarScene"
                   },
                   "parameters": [
-                    "MichisClientes",
-                    "MichisClientes.PointX(\"vision\")",
-                    "MichisClientes.PointY(\"vision\")",
-                    "360",
-                    "10",
+                    "Money",
+                    ">=",
+                    "MoneyPurse.Variable(Price)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "LinkedObjects::PickObjectsLinkedTo"
+                  },
+                  "parameters": [
                     "",
+                    "monText",
+                    "MoneyPurse",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "LinkedObjects::PickObjectsLinkedTo"
+                  },
+                  "parameters": [
                     "",
+                    "Rooms",
+                    "MoneyPurse",
                     ""
                   ]
                 }
@@ -1124,43 +5024,384 @@
               "actions": [
                 {
                   "type": {
-                    "value": "Arreter"
+                    "value": "Montre"
                   },
                   "parameters": [
-                    "MichisClientes"
+                    "Rooms",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Money",
+                    "-",
+                    "MoneyPurse.Variable(Price)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Floors",
+                    "=",
+                    "MoneyPurse.Variable(Variable)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "MoneyPurse",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "monText",
+                    ""
                   ]
                 }
               ]
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "MoneyPurse",
               "conditions": [
                 {
                   "type": {
-                    "value": "Vitesse"
+                    "value": "VarObjet"
                   },
                   "parameters": [
-                    "MichisClientes",
-                    "<=",
-                    "0"
+                    "MoneyPurse",
+                    "inst",
+                    "=",
+                    "Variable(Floors)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "LinkedObjects::PickObjectsLinkedTo"
+                  },
+                  "parameters": [
+                    "",
+                    "monText",
+                    "MoneyPurse",
+                    ""
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "ChangeAnimation"
+                    "value": "Montre"
                   },
                   "parameters": [
-                    "MichisClientes",
-                    "=",
-                    "0"
+                    "MoneyPurse",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "monText",
+                    ""
                   ]
                 }
               ]
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneVariableAsBoolean"
+              },
+              "parameters": [
+                "CanSpawn",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Spawner",
+                "Mary",
+                "",
+                "",
+                "yes"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ObjectSpawner::ObjectSpawner::SpawnObject"
+              },
+              "parameters": [
+                "Spawner",
+                "ObjectSpawner",
+                "Mary",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Visible"
+              },
+              "parameters": [
+                "Table"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Table",
+                "Mary",
+                "",
+                "",
+                "yes"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ObjectSpawner::ObjectSpawner::SpawnObject"
+              },
+              "parameters": [
+                "Table",
+                "ObjectSpawner",
+                "Mary",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Visible"
+              },
+              "parameters": [
+                "UIMoney"
+              ]
+            },
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "UIMoney",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "PayDebtText",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "NewTiledSprite",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Visible"
+              },
+              "parameters": [
+                "PayDebtText"
+              ]
+            },
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "PayDebtText",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "Money",
+                ">=",
+                "PayDebtText.Variable(Amount)"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "NewTiledSprite"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Debt",
+                "-",
+                "PayDebtText.Variable(Amount)"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Money",
+                "-",
+                "PayDebtText.Variable(Amount)"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "PayDebtText",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "PayDebtText"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "MichiDialog",
+                "=",
+                "\"$\" + VariableString(Money)"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Debt",
+                "=",
+                "\"$\" + ToString(Variable(Debt))"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "Debt",
+                "<=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Debt"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "UIMoney"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -1187,12 +5428,23 @@
           "effects": []
         },
         {
-          "ambientLightColorB": 128,
-          "ambientLightColorG": 128,
-          "ambientLightColorR": 128,
+          "ambientLightColorB": 255,
+          "ambientLightColorG": 255,
+          "ambientLightColorR": 255,
           "followBaseLayerCamera": true,
           "isLightingLayer": true,
           "name": "Lighting",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 8116944,
+          "ambientLightColorG": 6043312,
+          "ambientLightColorR": 8488208,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "UI",
           "visibility": true,
           "cameras": [],
           "effects": []
