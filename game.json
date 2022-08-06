@@ -1392,6 +1392,15 @@
           "identifier": "https://resources.gdevelop-app.com/assets/Interface/32x32 Pixel Arcade Stick and Buttons/Blank Button Green_Unpressed.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1-1.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1915,7 +1924,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.2242000000000417,
+        "zoomFactor": 0.5752000000000398,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1966,40 +1975,42 @@
         },
         {
           "folded": true,
-          "name": "Basement",
-          "type": "number",
-          "value": 0
-        },
-        {
-          "folded": true,
           "name": "Debt",
           "type": "number",
-          "value": 1000000
+          "value": 1000000000
         },
         {
           "folded": true,
           "name": "MaxDebt",
           "type": "number",
-          "value": 1000000
+          "value": 1000000000
+        },
+        {
+          "folded": true,
+          "name": "ToggleUI",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "folded": true,
+          "name": "Paid",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "ToPay",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "Added",
+          "type": "number",
+          "value": 0
         }
       ],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Day",
-          "persistentUuid": "2d753b81-494f-4a7f-9e43-6428cce3b9da",
-          "width": 0,
-          "x": 672,
-          "y": 32,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": false,
@@ -2057,8 +2068,8 @@
           "name": "MichiDialog",
           "persistentUuid": "457393df-f42f-44bf-9a34-252e959c1c4c",
           "width": 234,
-          "x": 560,
-          "y": 6,
+          "x": 0,
+          "y": 16,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -3003,9 +3014,9 @@
           "locked": false,
           "name": "Debt",
           "persistentUuid": "e2ba1e58-8aef-406a-9da5-dfcfda210aa0",
-          "width": 212,
-          "x": 560,
-          "y": 70,
+          "width": 304,
+          "x": 480,
+          "y": 16,
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
@@ -3122,8 +3133,8 @@
           "name": "UIMoney",
           "persistentUuid": "45167531-3d21-4bb9-a4dc-57412047be4d",
           "width": 48,
-          "x": 512,
-          "y": 54,
+          "x": 752,
+          "y": 0,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -3138,8 +3149,8 @@
           "name": "NewTiledSprite",
           "persistentUuid": "3b5415f2-5607-4f9a-9465-dbd981cd29d0",
           "width": 176,
-          "x": 512,
-          "y": 144,
+          "x": 576,
+          "y": 48,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -3154,8 +3165,8 @@
           "name": "PayDebtText",
           "persistentUuid": "38926255-494e-432a-882a-b48afaa0d1a0",
           "width": 80,
-          "x": 528,
-          "y": 160,
+          "x": 592,
+          "y": 64,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -3177,8 +3188,8 @@
           "name": "PayDebtText",
           "persistentUuid": "35e339d9-7029-4bc9-99ca-0016142e972e",
           "width": 80,
-          "x": 608,
-          "y": 160,
+          "x": 672,
+          "y": 64,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -3200,8 +3211,8 @@
           "name": "PayDebtText",
           "persistentUuid": "61da58fb-b067-4fad-a89b-82727935e2d1",
           "width": 80,
-          "x": 608,
-          "y": 192,
+          "x": 672,
+          "y": 96,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -3223,8 +3234,8 @@
           "name": "PayDebtText",
           "persistentUuid": "99278b41-78bc-490d-bfe4-7b7e259845a0",
           "width": 80,
-          "x": 528,
-          "y": 192,
+          "x": 592,
+          "y": 96,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -3246,8 +3257,8 @@
           "name": "PayDebtText",
           "persistentUuid": "d988e0ec-8ece-4eb2-b371-d4228cb598d3",
           "width": 80,
-          "x": 528,
-          "y": 224,
+          "x": 592,
+          "y": 128,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -3269,8 +3280,8 @@
           "name": "PayDebtText",
           "persistentUuid": "1671fa09-3b27-438f-88b3-4bb6790be633",
           "width": 80,
-          "x": 608,
-          "y": 224,
+          "x": 672,
+          "y": 128,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -3292,8 +3303,8 @@
           "name": "PayDebtText",
           "persistentUuid": "8621e2c6-1b37-4317-964f-2b7767dfd805",
           "width": 80,
-          "x": 608,
-          "y": 224,
+          "x": 672,
+          "y": 128,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -3315,8 +3326,8 @@
           "name": "PayDebtText",
           "persistentUuid": "9dd79f8e-382a-4027-9409-2be4946f2947",
           "width": 80,
-          "x": 560,
-          "y": 256,
+          "x": 624,
+          "y": 160,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -3328,9 +3339,205 @@
               "value": 1000000
             }
           ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "UI",
+          "locked": false,
+          "name": "BlackBackground",
+          "persistentUuid": "ceb407f4-89dc-45b7-9181-7ad9ed0911ae",
+          "width": 800,
+          "x": 0,
+          "y": 0,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "locked": false,
+          "name": "Day",
+          "persistentUuid": "f27827f5-5e70-4b8c-823a-b0dda535f4d5",
+          "width": 0,
+          "x": 288,
+          "y": 16,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 416,
+          "layer": "UI",
+          "locked": false,
+          "name": "endDayText",
+          "persistentUuid": "f47d8a1f-943d-463d-ba83-8a17a21cffe4",
+          "width": 704,
+          "x": 96,
+          "y": 112,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 80,
+          "layer": "UI",
+          "locked": false,
+          "name": "UIMoney2",
+          "persistentUuid": "6ed7fbb8-cce8-4c7e-a50d-8cc00e2d53a8",
+          "width": 96,
+          "x": 352,
+          "y": 480,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
+        {
+          "assetStoreId": "",
+          "height": 16,
+          "name": "grass",
+          "tags": "",
+          "texture": "NewFile-1-1-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Static",
+              "bullet": false,
+              "fixedRotation": false,
+              "canSleep": true,
+              "shape": "Box",
+              "shapeDimensionA": 0,
+              "shapeDimensionB": 0,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 0,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 1,
+              "layers": 1,
+              "masks": 1
+            },
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Spawner",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ObjectSpawner",
+              "type": "ObjectSpawner::ObjectSpawner",
+              "SpawnPeriod": 2,
+              "OffsetX": 0,
+              "OffsetY": 0,
+              "JustSpawnedAnObject": false,
+              "MaxQuantityReached": false,
+              "MaxQuantity": 10
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewFile-1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 64,
+          "name": "NewTiledSprite2",
+          "tags": "",
+          "texture": "assets\\Wall Mid.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 64,
+          "variables": [
+            {
+              "folded": true,
+              "name": "Update",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "folded": true,
+              "name": "MaxUpdate",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite4",
+          "tags": "",
+          "texture": "Dirt.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
         {
           "assetStoreId": "",
           "name": "Mary",
@@ -3364,6 +3571,29 @@
               "name": "Draggable",
               "type": "DraggableBehavior::Draggable",
               "checkCollisionMask": true
+            },
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Dynamic",
+              "bullet": false,
+              "fixedRotation": false,
+              "canSleep": true,
+              "shape": "Box",
+              "shapeDimensionA": 0,
+              "shapeDimensionB": 0,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 0,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 1,
+              "layers": 1,
+              "masks": 1
             }
           ],
           "animations": [
@@ -3913,52 +4143,58 @@
         },
         {
           "assetStoreId": "",
-          "height": 16,
-          "name": "grass",
+          "bold": false,
+          "italic": false,
+          "name": "Day",
+          "smoothed": true,
           "tags": "",
-          "texture": "NewFile-1-1-1.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 16,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [
             {
-              "name": "Physics2",
-              "type": "Physics2::Physics2Behavior",
-              "bodyType": "Static",
-              "bullet": false,
-              "fixedRotation": false,
-              "canSleep": true,
-              "shape": "Box",
-              "shapeDimensionA": 0,
-              "shapeDimensionB": 0,
-              "shapeOffsetX": 0,
-              "shapeOffsetY": 0,
-              "polygonOrigin": "Center",
-              "vertices": [],
-              "density": 1,
-              "friction": 0.3,
-              "restitution": 0.1,
-              "linearDamping": 0.1,
-              "angularDamping": 0.1,
-              "gravityScale": 1,
-              "layers": 1,
-              "masks": 1
-            },
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
+              "folded": true,
+              "name": "Timer",
+              "type": "number",
+              "value": 0
             }
-          ]
+          ],
+          "effects": [],
+          "behaviors": [],
+          "string": "Day: 1",
+          "font": "novem___2.ttf",
+          "characterSize": 50,
+          "color": {
+            "b": 254,
+            "g": 19,
+            "r": 144
+          }
         },
         {
           "assetStoreId": "",
           "bold": false,
           "italic": false,
-          "name": "Day",
+          "name": "MichiDialog",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "novem___2.ttf",
+          "characterSize": 50,
+          "color": {
+            "b": 6,
+            "g": 255,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "monText",
           "smoothed": true,
           "tags": "",
           "type": "TextObject::Text",
@@ -3968,6 +4204,62 @@
           "behaviors": [],
           "string": "Text",
           "font": "",
+          "characterSize": 16,
+          "color": {
+            "b": 0,
+            "g": 255,
+            "r": 21
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Debt",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "Debt",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "novem___2.ttf",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "PayDebtText",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "Amount",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "string": "1000000",
+          "font": "novem___2.ttf",
           "characterSize": 20,
           "color": {
             "b": 0,
@@ -3977,92 +4269,24 @@
         },
         {
           "assetStoreId": "",
-          "height": 64,
-          "name": "NewTiledSprite2",
+          "bold": false,
+          "italic": false,
+          "name": "endDayText",
+          "smoothed": true,
           "tags": "",
-          "texture": "assets\\Wall Mid.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 64,
-          "variables": [
-            {
-              "folded": true,
-              "name": "Update",
-              "type": "number",
-              "value": 0
-            },
-            {
-              "folded": true,
-              "name": "MaxUpdate",
-              "type": "number",
-              "value": 0
-            }
-          ],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "NewTiledSprite4",
-          "tags": "",
-          "texture": "Dirt.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
+          "type": "TextObject::Text",
+          "underlined": false,
           "variables": [],
           "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "name": "Spawner",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "ObjectSpawner",
-              "type": "ObjectSpawner::ObjectSpawner",
-              "SpawnPeriod": 2,
-              "OffsetX": 0,
-              "OffsetY": 0,
-              "JustSpawnedAnObject": false,
-              "MaxQuantityReached": false,
-              "MaxQuantity": 10
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewFile-1-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "behaviors": [],
+          "string": "Taxes\n\nSallary\n\nSuspicion\n\nEranings\n\nRevenue",
+          "font": "novem___2.ttf",
+          "characterSize": 50,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
         },
         {
           "additive": false,
@@ -4108,27 +4332,6 @@
           "variables": [],
           "effects": [],
           "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "MichiDialog",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "novem___2.ttf",
-          "characterSize": 50,
-          "color": {
-            "b": 6,
-            "g": 255,
-            "r": 0
-          }
         },
         {
           "assetStoreId": "b367c6e5fd573b4aa7a577420821223f57ee805a57307599739be95c379e8d42",
@@ -4373,97 +4576,8 @@
           ]
         },
         {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "monText",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "",
-          "characterSize": 16,
-          "color": {
-            "b": 0,
-            "g": 255,
-            "r": 21
-          }
-        },
-        {
-          "assetStoreId": "",
-          "height": 16,
-          "name": "NewTiledSprite",
-          "tags": "",
-          "texture": "Wall-1.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 16,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "Debt",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "Debt",
-              "type": "number",
-              "value": 0
-            }
-          ],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "novem___2.ttf",
-          "characterSize": 50,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 255
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "PayDebtText",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "Amount",
-              "type": "number",
-              "value": 0
-            }
-          ],
-          "effects": [],
-          "behaviors": [],
-          "string": "1000000",
-          "font": "novem___2.ttf",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
-        },
-        {
-          "assetStoreId": "649582a8479227fbb35888a44837f3dedada76855ac36132f9de0191c8058f0e",
-          "name": "BlankButtonGreen",
+          "assetStoreId": "4e5f9dd97bd51aa5c96d3808108fb76e334ad48a6c7141185faf8c02c174679a",
+          "name": "UIMoney2",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -4472,7 +4586,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "Pressed",
+              "name": "No Shadow",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -4481,7 +4595,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Blank Button Green_Pressed.png",
+                      "image": "Money Purse_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4501,7 +4615,7 @@
               ]
             },
             {
-              "name": "Unpressed",
+              "name": "Shadow",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -4510,7 +4624,60 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Blank Button Green_Unpressed.png",
+                      "image": "Money Purse_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 16,
+          "name": "NewTiledSprite",
+          "tags": "",
+          "texture": "Wall-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "BlackBackground",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4559,6 +4726,15 @@
             },
             {
               "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Timer\""
+              ]
+            },
+            {
+              "type": {
                 "value": "Cache"
               },
               "parameters": [
@@ -4579,6 +4755,22 @@
               },
               "parameters": [
                 "NewTiledSprite"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "endDayText"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "UIMoney2"
               ]
             }
           ],
@@ -4716,11 +4908,72 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Michi Events",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Michi Work",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Michi Update",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [],
+              "parameters": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "CanSpawn",
+                    "True"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Spawner",
+                    "Mary",
+                    "",
+                    "",
+                    "yes"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ObjectSpawner::ObjectSpawner::SpawnObject"
+                  },
+                  "parameters": [
+                    "Spawner",
+                    "ObjectSpawner",
+                    "Mary",
+                    ""
+                  ]
+                }
+              ]
+            },
             {
               "colorB": 228,
               "colorG": 176,
@@ -4953,6 +5206,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Upgrade Events",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5068,6 +5322,16 @@
                     "monText",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Added",
+                    "+",
+                    "1"
+                  ]
                 }
               ]
             },
@@ -5123,285 +5387,491 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneVariableAsBoolean"
-              },
-              "parameters": [
-                "CanSpawn",
-                "True"
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Spawner",
-                "Mary",
-                "",
-                "",
-                "yes"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ObjectSpawner::ObjectSpawner::SpawnObject"
-              },
-              "parameters": [
-                "Spawner",
-                "ObjectSpawner",
-                "Mary",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Visible"
-              },
-              "parameters": [
-                "Table"
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Table",
-                "Mary",
-                "",
-                "",
-                "yes"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ObjectSpawner::ObjectSpawner::SpawnObject"
-              },
-              "parameters": [
-                "Table",
-                "ObjectSpawner",
-                "Mary",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Visible"
-              },
-              "parameters": [
-                "UIMoney"
-              ]
-            },
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "UIMoney",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "PayDebtText",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "NewTiledSprite",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Visible"
-              },
-              "parameters": [
-                "PayDebtText"
-              ]
-            },
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "PayDebtText",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "VarScene"
-              },
-              "parameters": [
-                "Money",
-                ">=",
-                "PayDebtText.Variable(Amount)"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
-                "NewTiledSprite"
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVarScene"
-              },
-              "parameters": [
-                "Debt",
-                "-",
-                "PayDebtText.Variable(Amount)"
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVarScene"
-              },
-              "parameters": [
-                "Money",
-                "-",
-                "PayDebtText.Variable(Amount)"
-              ]
-            }
-          ],
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "UI Events",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "type": "BuiltinCommonInstructions::ForEach",
-              "object": "PayDebtText",
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Visible"
+                  },
+                  "parameters": [
+                    "PayDebtText"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "PayDebtText",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "Money",
+                    ">=",
+                    "PayDebtText.Variable(Amount)"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Debt",
+                    "-",
+                    "PayDebtText.Variable(Amount)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Money",
+                    "-",
+                    "PayDebtText.Variable(Amount)"
+                  ]
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "UIMoney",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ToggleSceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "ToggleUI"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "ToggleUI",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "PayDebtText",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "NewTiledSprite",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "ToggleUI",
+                        "False"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "PayDebtText"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "NewTiledSprite"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "MichiDialog",
+                    "=",
+                    "\"$\" + VariableString(Money)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Debt",
+                    "=",
+                    "\"$\" + ToString(Variable(Debt))"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "Debt",
+                    "<=",
+                    "0"
+                  ]
+                }
+              ],
               "actions": [
                 {
                   "type": {
                     "value": "Cache"
                   },
                   "parameters": [
-                    "PayDebtText"
+                    "Debt"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "UIMoney"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Timer\"",
+                    ">",
+                    "15"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Day",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Day",
+                    "=",
+                    "\"Day: \" + ToString(Variable(Day))"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "endDayText",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "UIMoney2",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PauseTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Timer\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Timer\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "ToPay",
+                    "=",
+                    "(Variable(Added) * 100) + Variable(Paid) * 0.35"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "endDayText",
+                    "=",
+                    "\"To Pay: $ \" + ToString(Variable(Day))"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "UIMoney2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Visible"
+                  },
+                  "parameters": [
+                    "UIMoney2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "Money",
+                    ">=",
+                    "Variable(ToPay)"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "endDayText"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "UIMoney2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ShowLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "UnPauseTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Timer\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Money",
+                    "-",
+                    "Variable(ToPay)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "UIMoney2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Visible"
+                  },
+                  "parameters": [
+                    "UIMoney2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "Money",
+                    "<",
+                    "Variable(ToPay)"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Game Over\"",
+                    ""
                   ]
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "MichiDialog",
-                "=",
-                "\"$\" + VariableString(Money)"
-              ]
-            },
-            {
-              "type": {
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "Debt",
-                "=",
-                "\"$\" + ToString(Variable(Debt))"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarScene"
-              },
-              "parameters": [
-                "Debt",
-                "<=",
-                "0"
-              ]
-            }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
-                "Debt"
-              ]
-            },
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
-                "UIMoney"
-              ]
-            }
-          ]
+          "parameters": []
         }
       ],
       "layers": [
@@ -5468,6 +5938,147 @@
           "type": "PlatformBehavior::PlatformBehavior"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Win",
+      "name": "Win",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {},
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 9187712,
+          "ambientLightColorG": 150995054,
+          "ambientLightColorR": 1869182049,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 0,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Game_32Over",
+      "name": "Game Over",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 0,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 0,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.5458000000000001,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 79,
+          "layer": "",
+          "locked": false,
+          "name": "NewText",
+          "persistentUuid": "49c373ae-83d1-4529-a5dd-5be6b3a8e8e4",
+          "width": 450,
+          "x": 191,
+          "y": 256,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "NewText",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Game Over",
+          "font": "novem___2.ttf",
+          "characterSize": 100,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          }
+        }
+      ],
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 0,
+          "ambientLightColorG": 0,
+          "ambientLightColorR": 0,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
